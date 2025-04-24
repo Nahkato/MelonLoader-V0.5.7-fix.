@@ -1,7 +1,7 @@
 # MelonLoader-V0.5.7-fix.
 This file is edited to solve the issue where MelonLoader 0.5.7 can't download the required dependencies 
 
-This is the file Il2CppAssemblyGenerator.dll which has an issue that me with the help of a really smart dev I managed to fix by changing the flollowing under:
+This is the file Il2CppAssemblyGenerator.dll which has an issue that with the help of a really smart dev I managed to fix by changing the flollowing under:
 Il2CppAssemblyGenerator.dll > MelonLoader.Il2CppAssemblyGenerator.Packages > Cpp2IL > line 23:
 this.Version = "2022.1.0-pre-release.8"; to this.Version = "2022.1.0-pre-release.10"; using DNSpy
 
