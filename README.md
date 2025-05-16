@@ -14,6 +14,7 @@ to use this,
 3. Next go to your game's install location and go to MelonLoader > Dependencies > Il2CppAssemblyGenerator and replace Il2CppAssemblyGenerator.dll with the dll from this repo 
 
 4. go to your where your main game files are installed and right click Car Mechanic Simulator 2021.exe (or whatever game you're playing) > go to properties > check the box that says "Run as Administrator"
+(IF YOU DO NOT DO THIS REGARDLESS OF IF ITS PIRATED OR NOT IT WILL NOT WORK!!!)
 
     4.1. if you are using a pirated version of CMS2021 and have a Launcher.exe run that as administrator as well
 
