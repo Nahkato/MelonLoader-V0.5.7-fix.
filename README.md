@@ -21,3 +21,6 @@ to use this,
 DISCLAIMER: if you do not run the game (and/or launcher) as administrator MelonLoader will scream at you that it can't install Cpp2IL due to a connection error
 
 WARNING: please note while the original file is from the MelonLoader dev team, this repo is not officially endorced by the devs of MelonLoader. While the only change is changing one number to another, it still is altered from the original and is used at your own risk.
+
+credit to [phoenixhackt](https://github.com/phoenixhackt) for some advice for cracked CMS21 in their words: 
+"Just a tip if your crack comes from [redacted] or others with a Car Mechanic Simulator 2021.exe file that doesn't work due to a missing Steam key and a launcher file that does work: after installing melonloader and replacing the correct file with the one from Nahkato, launch once with the Car Mechanic Simulator 2021.exe file, even though I know it doesn't work. This allows melonloader to install everything, and then you can launch with the launcher and it will work with the mod."
